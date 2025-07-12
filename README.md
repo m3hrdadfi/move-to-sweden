@@ -180,4 +180,4 @@ Coming to a new country always brings its own challenges, and Sweden has its sha
 
 
 ### ✉️ Contributions
-Did you learn something new? Help update this guide for the next wave of newcomers.
+Did you learn something new? [Help update this guide for the next wave of newcomers](./CONTRIBUTING.md).
