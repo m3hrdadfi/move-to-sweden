@@ -137,8 +137,6 @@
 ## 👨‍👩‍👧‍👦 Family & legal
 Processes like inviting family or friends (visitor visa), permanent residence, citizenship, marriage or sambo agreements, and other legal steps depend heavily on nationality and personal status. 
 
-👉 We'll update and expand this section with detailed checklists and links soon. Stay tuned.
-
 
 ## 📱 Essential apps
 
